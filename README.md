@@ -2,11 +2,11 @@
 
 ## Índice
 - [1. Instalación](#1-Instalación)
-- [2.Propósito](#2-Propósito)
-- [3.Estructura del proyecto](#3-Estructura-del-proyecto)
-- [4.Descripción del proceso de preparación de los datos](#4-Descripción-del-proceso-de-preparación-de-los-datos)
-- [5.Análisis exploratorio de datos)](#5-Análisis-exploratorio-de-datos)
-- [6.Conclusiones)](#6-Conclusiones) 
+- [2. Propósito](#2-Propósito)
+- [3. Estructura del proyecto](#3-Estructura-del-proyecto)
+- [4. Descripción del proceso de preparación de los datos](#4-Descripción-del-proceso-de-preparación-de-los-datos)
+- [5. Análisis exploratorio de datos](#5-Análisis-exploratorio-de-datos)
+- [6. Conclusiones)](#6-Conclusiones) 
 ----------------------------               
 
 ## 1. Instalación
